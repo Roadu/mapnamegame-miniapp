@@ -1,0 +1,19 @@
+{
+    "accountAssociation": {
+    "header": "eyJmaWQiOjE5NDM3MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGY3OTM3N0FhNzgwRGMxNWFmMDFBYkNlQmU4QjVhNEFCMzJkNEJBQzAifQ",
+    "payload": "eyJkb21haW4iOiJtYXBuYW1lZ2FtZTMub3JiaXRlci53ZWJzaXRlIn0",
+    "signature": "MHhmOWQ4NWM5NjkzMTMzY2I1NDVlMzVhMWJjMGI4MTZlYjI5OWQzMDk2YjNlOGRmOTQwODYxOTk4MGQ1MzEyMWY0NWNlYWNkNGM1NjUxNTEyOGQ4Yzg5ZTFkODBkZDNkZWYwYjQyN2ZiNzIyMjhlNDZlOGVmYTZkOGE4MGQ4MzU1ZDFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "MapGame",
+    "iconUrl": "https://mapnamegame3.orbiter.website/icon.png",
+    "homeUrl": "https://mapnamegame3.orbiter.website/",
+    "imageUrl": "https://mapnamegame3.orbiter.website/logo.png",
+    "buttonTitle": "Open MapGame",
+    "splashImageUrl": "https://mapnamegame3.orbiter.website/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://scribbleonchain.com/api/webhook",
+    "primaryCategory": "games"
+  }
+}
